@@ -1,0 +1,21 @@
+{
+  "name": "ssr-demo",
+  "version": "1.0.0",
+  "description": "ssr-demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node index.js"
+  },
+  "author": "何嘉麟 <jialin.he@zhenai.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "vue": "^2.6.10",
+    "vue-router": "^3.0.6",
+    "vue-server-renderer": "^2.6.10"
+  },
+  "dependencies": {
+    
+  }
+}
